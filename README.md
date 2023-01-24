@@ -1,6 +1,4 @@
+| <center>[<img src="images/pandora.jpg" width=100>](https://youtube.com/redirect?q=pandora.com)<br> [Pandora](https://youtube.com/redirect?q=pandora.com)</center> |  <center>[<img src="images/plex.png" width=100>](https://youtube.com/redirect?q=app.plex.tv/desktop)<br> [Plex](https://youtube.com/redirect?q=app.plex.tv/desktop)</center> | <center>[<img src="images/prime.png" width=100>](https://youtube.com/redirect?q=www.amazon.com)<br> [Amazon](https://youtube.com/redirect?q=www.amazon.com)</center> | <center>[<img src="images/hbomax.jpg" width=100>](https://youtube.com/redirect?q=www.hbomax.com)<br> [HBOMax](https://youtube.com/redirect?q=www.hbomax.com)</center> |
+| --- | --- | --- | --- |
+| <center>[<img src="images/peacock.jpg" width=100>](https://youtube.com/redirect?q=www.peacocktv.com)<br> [PeacockTV](https://youtube.com/redirect?q=www.peacocktv.com)</center> |  <center>[<img src="images/paramount.jpg" width=100>](https://youtube.com/redirect?q=awww.paramountplus.com)<br> [Paramount](https://youtube.com/redirect?q=www.paramountplus.com)</center> | | <center>[<img src="images/waze.png" width=100>](https://youtube.com/redirect?q=teslawaze.azurewebsites.net)<br> [Tesla Waze](https://youtube.com/redirect?q=teslawaze.azurewebsites.net)</center> |
 
-[<img src="images/pandora.jpg" width=100>](https://youtube.com/redirect?q=pandora.com)
-
-[<img src="images/plex.png" width=100>](https://youtube.com/redirect?q=app.plex.tv/desktop)
-
-[<img src="images/waze.png" width=100>](https://youtube.com/redirect?q=teslawaze.azurewebsites.net)
